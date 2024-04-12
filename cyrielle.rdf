@@ -88,6 +88,7 @@
     <!-- http://www.semanticweb.org/cici/ontologies/2024/3/untitled-ontology-8#song -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/cici/ontologies/2024/3/untitled-ontology-8#song">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
         <rdfs:label>song</rdfs:label>
     </owl:Class>
     
